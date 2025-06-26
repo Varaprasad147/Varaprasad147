@@ -13,7 +13,7 @@
 - 🌐 Web Development: Django | Flask | HTML | CSS | Bootstrap  
 - 🧰 Tools & Platforms: Git | GitHub | VS Code | Postman | ServiceNow (CSA, CAD)    
 - 🧪 Machine Learning & Data: scikit-learn | pandas | numpy | matplotlib | seaborn  
-- 🗃 Databases: PostgreSQL | MySQL
+- 🗃 Databases: MongoDB | MySQL
 
 ---
 
@@ -22,10 +22,10 @@
 | 📌 Project | 📝 Description |
 |-----------|----------------|
 | 📚 Library Management System | Django-based app to automate library operations with admin control and student interface. |
-| 🌐 Online Examination System | Static web portal for students with exam schedules, login, and result display. |
-| 🎯 Groundwater Conservation Game | Web/mobile game for groundwater awareness using Unity & interactive simulations. |
+| 🧠 Enhanced Emotion Recognition Using Vision and Voice | Deep learning-based system combining facial expression (CNN) and voice signal (MFCC) to predict emotions. |
 
 > 👉 Explore my [GitHub Projects](https://github.com/varaprasad2003?tab=repositories) to see code & demos!
+
 
 ---
 
